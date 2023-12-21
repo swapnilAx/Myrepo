@@ -1,1 +1,1 @@
-This is a sample readme file.
+This is my first repository on gitHub.
